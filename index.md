@@ -28,12 +28,12 @@ EDC-1 is a dynamic range compressor with slow attack and almost fast release. Th
 * Name: **Filipe Chagas Ferraz**
 * Country: Brazil
 * Email: filipe.ferraz0@gmail.com
-* LinkedIn: https://www.linkedin.com/in/filipe-chagas-16a9371b8/
-* GitHub: https://github.com/FilipeChagasDev
+* LinkedIn: [https://www.linkedin.com/in/filipe-chagas-16a9371b8/](https://www.linkedin.com/in/filipe-chagas-16a9371b8/)
+* GitHub: [https://github.com/FilipeChagasDev](https://github.com/FilipeChagasDev)
 
 ### How to report bugs
 
-Send me an email with the subject "{{plug-in name}} bug report" (obviously, you should put the name of the plugin you identified a bug with instead of "{{plug-in name}}" ). In the body of the email, provide the following information:
+Send me an email with the subject "<plug-in name> bug report" (obviously, you should put the name of the plugin you identified a bug with instead of "<plug-in name>" ). In the body of the email, provide the following information:
 
 * The version of the plug-in you were using
 * The source you downloaded from (if you downloaded from this website, just write "official website")
