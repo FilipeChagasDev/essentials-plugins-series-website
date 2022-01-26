@@ -33,7 +33,7 @@ EDC-1 is a dynamic range compressor with slow attack and almost fast release. Th
 
 ### How to report bugs
 
-Send me an email with the subject "<plug-in name> bug report" (obviously, you should put the name of the plugin you identified a bug with instead of "<plug-in name>" ). In the body of the email, provide the following information:
+Send me an email with the subject "\{plug-in name\} bug report" (obviously, you should put the name of the plugin you identified a bug with instead of "\{plug-in name\}" ). In the body of the email, provide the following information:
 
 * The version of the plug-in you were using
 * The source you downloaded from (if you downloaded from this website, just write "official website")
