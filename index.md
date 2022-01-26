@@ -21,3 +21,28 @@ EF-1 is a low pass or high pass audio filter plugin, with adjustable frequency b
 # Essential Drum Compressor (EDC-1)
 
 EDC-1 is a dynamic range compressor with slow attack and almost fast release. This compressor is dedicated to percussion mixing, but can also sound great in other applications.
+
+* * *
+### Author
+
+* Name: **Filipe Chagas Ferraz**
+* Country: Brazil
+* Email: filipe.ferraz0@gmail.com
+* LinkedIn: https://www.linkedin.com/in/filipe-chagas-16a9371b8/
+* GitHub: https://github.com/FilipeChagasDev
+
+### How to report bugs
+
+Send me an email with the subject "{{plug-in name}} bug report" (obviously, you should put the name of the plugin you identified a bug with instead of "{{plug-in name}}" ). In the body of the email, provide the following information:
+
+* The version of the plug-in you were using
+* The source you downloaded from (if you downloaded from this website, just write "official website")
+* The operating system you were using when the bug happened
+* The DAW you were using when the bug happened
+* The sample rate and buffer size you were using when the bug happened
+* Whether the DAW you used is original or pirated. **Note: this information is important for me to enumerate and test the possible causes of the problem, as pirated software tends to present instabilities. I promise that I will respect your privacy and will not try to harm you if the DAW is pirated.**
+* A detailed description of the bug
+  * If the bug is visual, consider attaching screenshots and screencasts
+  * If the bug is audible (which is more serious), consider attaching audio processed by the plugin along with screenshots of its settings
+
+The email can be written in English or Portuguese. Don't be rude, I'm not charging you for plugins 😉.
