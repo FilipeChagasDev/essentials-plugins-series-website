@@ -16,6 +16,8 @@ Essential EQ is a 4-band parametric equalizer: low, mid-low, high-low, and high.
 
 # Essential Filter (EF-1)
 
+<iframe width="560" height="315" src="https://youtu.be/yzpIhEKSF6o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 EF-1 is a low pass or high pass audio filter plugin, with adjustable frequency between 20Hz and 20kHz, adjustable slope from 6dB/oct to 60dB/oct and phase inversion switch.
 
 * [Download EF-1 v1.1.0 Windows VST3 (no-installer)](https://github.com/FilipeChagasDev/essentials-plugins-series-website/releases/download/26-Jan-22/EF-1_v1-1-0_Windows_VST3.zip)
