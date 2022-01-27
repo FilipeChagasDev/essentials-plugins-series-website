@@ -26,6 +26,8 @@ EF-1 is a low pass or high pass audio filter plugin, with adjustable frequency b
 
 # Essential Drum Compressor (EDC-1)
 
+<iframe width="560" height="315" src="https://youtu.be/ihMvfMJC5zU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 EDC-1 is a dynamic range compressor with slow attack and almost fast release. This compressor is dedicated to percussion mixing, but can also sound great in other applications.
 
 * [Download EDC-1 v1.0.0 Windows VST3 (no-installer)](https://github.com/FilipeChagasDev/essentials-plugins-series-website/releases/download/26-Jan-22/EDC-1_v1-0-0_Windows_VST3.zip)
