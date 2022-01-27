@@ -6,7 +6,7 @@ Plugins are currently under development, so they may have bugs (it will be very 
 
 # Essential EQ (EEQ-1)
 
-<iframe src="https://youtu.be/qiVyrfRYzMM"></iframe>
+<iframe width="560" height="315" src="https://youtu.be/qiVyrfRYzMM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Essential EQ is a 4-band parametric equalizer: low, mid-low, high-low, and high. these bands correspond, respectively, to bass, mid-bass, mid-treble and treble. In addition to the 4 bands, there is treble (high) and bass (low) cut with adjustable slope. There is no frequency response or FFT display, so you must be guided by your ear to use this equalizer.
 
