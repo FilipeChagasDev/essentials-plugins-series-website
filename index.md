@@ -35,8 +35,10 @@ EDC-1 is a dynamic range compressor with slow attack and almost fast release. Th
 
 There are download links for plugins without an installer. These links may be the only ones available or an option for those who don't feel safe with executable installers. Basically, these links lead to zip files containing the respective raw files of the plugins (files ".vst3" in case the plugin is VST3 for Windows). These files must be manually installed following the instructions below:
 
-#### VST3 for Windows
-Move the ".vst3" file to the "Program Files/Common Files/VST3" directory.
+| Format | Procedure |
+|----|----|
+| VST3 for Windows | Move the ".vst3" file to the "Program Files/Common Files/VST3" directory. |
+
 
 ### How to report bugs
 
